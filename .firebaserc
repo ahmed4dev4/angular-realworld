@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fb-clone-49c55": {
+      "hosting": {
+        "ang2-conduit": [
+          "fb-clone-49c55"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-realworld-9dbf2"
+  }
+}
